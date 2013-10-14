@@ -4,9 +4,7 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
-// pierwsza zmiana
-// zmiana druga
-//aglagla
+
 
 public class MainActivity extends Activity {
 

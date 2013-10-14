@@ -4,5 +4,9 @@
     <string name="app_name">jWycieczki</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="labelLogin">Login</string>
+    <string name="labelHaslo">Hasło</string>
+    <string name="buttonZaloguj">Zaloguj</string>
+    <string name="buttonRejestracja">Rejestracja</string>
 
 </resources>
